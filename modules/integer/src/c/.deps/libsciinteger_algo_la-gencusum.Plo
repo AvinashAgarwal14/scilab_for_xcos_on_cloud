@@ -1,0 +1,13 @@
+src/c/libsciinteger_algo_la-gencusum.lo: src/c/gencusum.c \
+ /usr/include/stdc-predef.h includes/gencusum.h includes/dynlib_integer.h \
+ ../../modules/core/includes/machine.h includes/def.h
+
+/usr/include/stdc-predef.h:
+
+includes/gencusum.h:
+
+includes/dynlib_integer.h:
+
+../../modules/core/includes/machine.h:
+
+includes/def.h:

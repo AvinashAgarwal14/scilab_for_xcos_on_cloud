@@ -1,0 +1,15 @@
+src/c/libscigraphics_algo_la-loadTextRenderingAPI.lo: \
+ src/c/loadTextRenderingAPI.c /usr/include/stdc-predef.h \
+ src/c/loadTextRenderingAPI.h ../../modules/core/includes/BOOL.h \
+ ../../modules/jvm/includes/loadOnUseClassPath.h \
+ ../../modules/jvm/includes/dynlib_jvm.h
+
+/usr/include/stdc-predef.h:
+
+src/c/loadTextRenderingAPI.h:
+
+../../modules/core/includes/BOOL.h:
+
+../../modules/jvm/includes/loadOnUseClassPath.h:
+
+../../modules/jvm/includes/dynlib_jvm.h:

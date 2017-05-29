@@ -1,0 +1,4 @@
+src/c/libscilocalization_algo_la-setdefaultlanguage.lo: \
+ src/c/setdefaultlanguage.c /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

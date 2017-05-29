@@ -1,0 +1,12 @@
+sci_gateway/c/libscielementary_functions_la-sci_triu.lo: \
+ sci_gateway/c/sci_triu.c /usr/include/stdc-predef.h \
+ includes/gw_elementary_functions.h ../../modules/core/includes/machine.h \
+ includes/dynlib_elementary_functions.h
+
+/usr/include/stdc-predef.h:
+
+includes/gw_elementary_functions.h:
+
+../../modules/core/includes/machine.h:
+
+includes/dynlib_elementary_functions.h:

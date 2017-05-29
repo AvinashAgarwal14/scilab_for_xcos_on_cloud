@@ -1,0 +1,7 @@
+src/c/getHandleProperty/libscigraphics_algo_la-SetPropertyStatus.lo: \
+ src/c/getHandleProperty/SetPropertyStatus.c /usr/include/stdc-predef.h \
+ src/c/getHandleProperty/SetPropertyStatus.h
+
+/usr/include/stdc-predef.h:
+
+src/c/getHandleProperty/SetPropertyStatus.h:

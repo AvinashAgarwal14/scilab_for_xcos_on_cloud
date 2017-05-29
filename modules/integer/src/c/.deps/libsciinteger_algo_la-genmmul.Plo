@@ -1,0 +1,15 @@
+src/c/libsciinteger_algo_la-genmmul.lo: src/c/genmmul.c \
+ /usr/include/stdc-predef.h includes/gendot.h includes/dynlib_integer.h \
+ ../../modules/core/includes/machine.h includes/def.h includes/genmmul.h
+
+/usr/include/stdc-predef.h:
+
+includes/gendot.h:
+
+includes/dynlib_integer.h:
+
+../../modules/core/includes/machine.h:
+
+includes/def.h:
+
+includes/genmmul.h:

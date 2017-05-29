@@ -1,0 +1,11 @@
+sci_gateway/c/libsciio_la-sci_read4b.lo: sci_gateway/c/sci_read4b.c \
+ /usr/include/stdc-predef.h includes/gw_io.h \
+ ../../modules/core/includes/machine.h includes/dynlib_io.h
+
+/usr/include/stdc-predef.h:
+
+includes/gw_io.h:
+
+../../modules/core/includes/machine.h:
+
+includes/dynlib_io.h:

@@ -1,0 +1,13 @@
+src/c/libsciinteger_algo_la-tpconv.lo: src/c/tpconv.c \
+ /usr/include/stdc-predef.h includes/tpconv.h includes/dynlib_integer.h \
+ ../../modules/core/includes/machine.h includes/def.h
+
+/usr/include/stdc-predef.h:
+
+includes/tpconv.h:
+
+includes/dynlib_integer.h:
+
+../../modules/core/includes/machine.h:
+
+includes/def.h:

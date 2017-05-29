@@ -1,0 +1,14 @@
+sci_gateway/c/libscigraphic_export_la-sci_xs2ps.lo: \
+ sci_gateway/c/sci_xs2ps.c /usr/include/stdc-predef.h \
+ includes/gw_graphic_export.h includes/dynlib_graphic_export.h \
+ sci_gateway/c/xs2file.h src/cpp/exportToFile.hxx
+
+/usr/include/stdc-predef.h:
+
+includes/gw_graphic_export.h:
+
+includes/dynlib_graphic_export.h:
+
+sci_gateway/c/xs2file.h:
+
+src/cpp/exportToFile.hxx:

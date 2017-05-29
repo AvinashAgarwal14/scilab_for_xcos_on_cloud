@@ -1,0 +1,11 @@
+src/c/libscicall_scilab_algo_la-fromjava.lo: src/c/fromjava.c \
+ /usr/include/stdc-predef.h includes/fromjava.h \
+ ../../modules/core/includes/BOOL.h includes/dynlib_call_scilab.h
+
+/usr/include/stdc-predef.h:
+
+includes/fromjava.h:
+
+../../modules/core/includes/BOOL.h:
+
+includes/dynlib_call_scilab.h:

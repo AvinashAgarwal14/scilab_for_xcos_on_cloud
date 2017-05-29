@@ -1,0 +1,13 @@
+src/c/libsciinteger_algo_la-genmcopy.lo: src/c/genmcopy.c \
+ /usr/include/stdc-predef.h includes/genmcopy.h includes/dynlib_integer.h \
+ ../../modules/core/includes/machine.h includes/def.h
+
+/usr/include/stdc-predef.h:
+
+includes/genmcopy.h:
+
+includes/dynlib_integer.h:
+
+../../modules/core/includes/machine.h:
+
+includes/def.h:

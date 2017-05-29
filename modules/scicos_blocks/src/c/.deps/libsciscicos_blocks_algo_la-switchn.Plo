@@ -1,0 +1,6 @@
+src/c/libsciscicos_blocks_algo_la-switchn.lo: src/c/switchn.c \
+ /usr/include/stdc-predef.h includes/dynlib_scicos_blocks.h
+
+/usr/include/stdc-predef.h:
+
+includes/dynlib_scicos_blocks.h:

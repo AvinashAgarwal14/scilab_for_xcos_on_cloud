@@ -1,0 +1,6 @@
+src/c/libscigui_algo_la-checkColorRange.lo: src/c/checkColorRange.c \
+ /usr/include/stdc-predef.h src/c/checkColorRange.h
+
+/usr/include/stdc-predef.h:
+
+src/c/checkColorRange.h:

@@ -1,0 +1,18 @@
+src/c/libscielementary_functions_algo_la-idmin.lo: src/c/idmin.c \
+ /usr/include/stdc-predef.h includes/idmin.h \
+ ../../modules/core/includes/machine.h \
+ includes/dynlib_elementary_functions.h \
+ ../../modules/core/includes/isanan.h \
+ ../../modules/core/includes/machine.h
+
+/usr/include/stdc-predef.h:
+
+includes/idmin.h:
+
+../../modules/core/includes/machine.h:
+
+includes/dynlib_elementary_functions.h:
+
+../../modules/core/includes/isanan.h:
+
+../../modules/core/includes/machine.h:

@@ -1,0 +1,11 @@
+sci_gateway/c/libscisparse_la-sci_spcompa.lo: sci_gateway/c/sci_spcompa.c \
+ /usr/include/stdc-predef.h includes/gw_sparse.h \
+ ../../modules/core/includes/machine.h includes/dynlib_sparse.h
+
+/usr/include/stdc-predef.h:
+
+includes/gw_sparse.h:
+
+../../modules/core/includes/machine.h:
+
+includes/dynlib_sparse.h:

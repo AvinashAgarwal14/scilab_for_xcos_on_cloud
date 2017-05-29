@@ -1,0 +1,16 @@
+src/c/libsciconsole_la-GuiManagement.lo: src/c/GuiManagement.c \
+ /usr/include/stdc-predef.h src/c/GuiManagement.h includes/scilines.h \
+ ../../modules/core/includes/machine.h ../../modules/core/includes/BOOL.h \
+ includes/dynlib_console.h
+
+/usr/include/stdc-predef.h:
+
+src/c/GuiManagement.h:
+
+includes/scilines.h:
+
+../../modules/core/includes/machine.h:
+
+../../modules/core/includes/BOOL.h:
+
+includes/dynlib_console.h:

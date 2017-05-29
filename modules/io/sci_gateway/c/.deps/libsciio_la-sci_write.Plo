@@ -1,0 +1,11 @@
+sci_gateway/c/libsciio_la-sci_write.lo: sci_gateway/c/sci_write.c \
+ /usr/include/stdc-predef.h includes/gw_io.h \
+ ../../modules/core/includes/machine.h includes/dynlib_io.h
+
+/usr/include/stdc-predef.h:
+
+includes/gw_io.h:
+
+../../modules/core/includes/machine.h:
+
+includes/dynlib_io.h:

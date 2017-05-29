@@ -1,0 +1,13 @@
+src/c/libsciinteger_algo_la-genrdiv.lo: src/c/genrdiv.c \
+ /usr/include/stdc-predef.h includes/genrdiv.h includes/dynlib_integer.h \
+ ../../modules/core/includes/machine.h includes/def.h
+
+/usr/include/stdc-predef.h:
+
+includes/genrdiv.h:
+
+includes/dynlib_integer.h:
+
+../../modules/core/includes/machine.h:
+
+includes/def.h:

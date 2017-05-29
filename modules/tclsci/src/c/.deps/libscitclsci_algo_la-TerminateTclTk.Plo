@@ -1,0 +1,14 @@
+src/c/libscitclsci_algo_la-TerminateTclTk.lo: src/c/TerminateTclTk.c \
+ /usr/include/stdc-predef.h includes/TerminateTclTk.h \
+ includes/dynlib_tclsci.h ../../modules/core/includes/BOOL.h \
+ src/c/InitTclTk.h
+
+/usr/include/stdc-predef.h:
+
+includes/TerminateTclTk.h:
+
+includes/dynlib_tclsci.h:
+
+../../modules/core/includes/BOOL.h:
+
+src/c/InitTclTk.h:

@@ -1,0 +1,11 @@
+sci_gateway/c/libscisymbolic_la-sci_mulf.lo: sci_gateway/c/sci_mulf.c \
+ /usr/include/stdc-predef.h includes/gw_symbolic.h \
+ includes/dynlib_symbolic.h ../../modules/core/includes/machine.h
+
+/usr/include/stdc-predef.h:
+
+includes/gw_symbolic.h:
+
+includes/dynlib_symbolic.h:
+
+../../modules/core/includes/machine.h:

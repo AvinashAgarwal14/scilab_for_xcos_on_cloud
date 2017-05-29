@@ -1,0 +1,11 @@
+src/c/libscicore_algo_la-scilabmode.lo: src/c/scilabmode.c \
+ /usr/include/stdc-predef.h ../../modules/core/includes/scilabmode.h \
+ ../../modules/core/includes/machine.h ../../modules/core/includes/BOOL.h
+
+/usr/include/stdc-predef.h:
+
+../../modules/core/includes/scilabmode.h:
+
+../../modules/core/includes/machine.h:
+
+../../modules/core/includes/BOOL.h:

@@ -1,0 +1,15 @@
+src/c/libsciinteger_algo_la-genmprod.lo: src/c/genmprod.c \
+ /usr/include/stdc-predef.h includes/genprod.h includes/dynlib_integer.h \
+ ../../modules/core/includes/machine.h includes/def.h includes/genmprod.h
+
+/usr/include/stdc-predef.h:
+
+includes/genprod.h:
+
+includes/dynlib_integer.h:
+
+../../modules/core/includes/machine.h:
+
+includes/def.h:
+
+includes/genmprod.h:

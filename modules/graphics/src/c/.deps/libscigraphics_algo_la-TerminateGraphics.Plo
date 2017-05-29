@@ -1,0 +1,14 @@
+src/c/libscigraphics_algo_la-TerminateGraphics.lo: \
+ src/c/TerminateGraphics.c /usr/include/stdc-predef.h \
+ includes/TerminateGraphics.h ../../modules/core/includes/BOOL.h \
+ includes/dynlib_graphics.h includes/graphicModuleLoad.h
+
+/usr/include/stdc-predef.h:
+
+includes/TerminateGraphics.h:
+
+../../modules/core/includes/BOOL.h:
+
+includes/dynlib_graphics.h:
+
+includes/graphicModuleLoad.h:

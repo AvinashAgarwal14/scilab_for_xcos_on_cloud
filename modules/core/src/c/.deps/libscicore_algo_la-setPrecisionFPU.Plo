@@ -1,0 +1,4 @@
+src/c/libscicore_algo_la-setPrecisionFPU.lo: src/c/setPrecisionFPU.c \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

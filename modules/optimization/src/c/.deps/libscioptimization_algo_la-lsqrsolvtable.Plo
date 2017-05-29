@@ -1,0 +1,15 @@
+src/c/libscioptimization_algo_la-lsqrsolvtable.lo: src/c/lsqrsolvtable.c \
+ /usr/include/stdc-predef.h \
+ ../../modules/dynamic_link/includes/GetFunctionByName.h \
+ ../../modules/dynamic_link/includes/dynlib_dynamic_link.h \
+ ../../modules/core/includes/machine.h includes/dynlib_optimization.h
+
+/usr/include/stdc-predef.h:
+
+../../modules/dynamic_link/includes/GetFunctionByName.h:
+
+../../modules/dynamic_link/includes/dynlib_dynamic_link.h:
+
+../../modules/core/includes/machine.h:
+
+includes/dynlib_optimization.h:

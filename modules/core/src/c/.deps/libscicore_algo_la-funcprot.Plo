@@ -1,0 +1,11 @@
+src/c/libscicore_algo_la-funcprot.lo: src/c/funcprot.c \
+ /usr/include/stdc-predef.h src/c/funcprot.h \
+ ../../modules/core/includes/machine.h ../../modules/core/includes/BOOL.h
+
+/usr/include/stdc-predef.h:
+
+src/c/funcprot.h:
+
+../../modules/core/includes/machine.h:
+
+../../modules/core/includes/BOOL.h:

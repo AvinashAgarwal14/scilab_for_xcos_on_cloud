@@ -1,0 +1,7 @@
+src/c/libsciscicos_blocks_algo_la-scicos_indexfinder.lo: \
+ src/c/scicos_indexfinder.c /usr/include/stdc-predef.h \
+ src/c/scicos_indexfinder.h
+
+/usr/include/stdc-predef.h:
+
+src/c/scicos_indexfinder.h:

@@ -1,0 +1,8 @@
+src/c/libscielementary_functions_algo_la-qsort-int.lo: src/c/qsort-int.c \
+ /usr/include/stdc-predef.h src/c/qsort.h src/c/qsort-int.h
+
+/usr/include/stdc-predef.h:
+
+src/c/qsort.h:
+
+src/c/qsort-int.h:

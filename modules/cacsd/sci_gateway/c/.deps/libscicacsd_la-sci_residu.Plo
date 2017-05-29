@@ -1,0 +1,11 @@
+sci_gateway/c/libscicacsd_la-sci_residu.lo: sci_gateway/c/sci_residu.c \
+ /usr/include/stdc-predef.h ../../modules/core/includes/machine.h \
+ includes/gw_cacsd3.h includes/dynlib_cacsd.h
+
+/usr/include/stdc-predef.h:
+
+../../modules/core/includes/machine.h:
+
+includes/gw_cacsd3.h:
+
+includes/dynlib_cacsd.h:

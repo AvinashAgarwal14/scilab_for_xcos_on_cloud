@@ -1,0 +1,7 @@
+src/c/libsciscicos_blocks_algo_la-scicos_evalhermite.lo: \
+ src/c/scicos_evalhermite.c /usr/include/stdc-predef.h \
+ src/c/scicos_evalhermite.h
+
+/usr/include/stdc-predef.h:
+
+src/c/scicos_evalhermite.h:

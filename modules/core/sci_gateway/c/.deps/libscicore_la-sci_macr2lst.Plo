@@ -1,0 +1,9 @@
+sci_gateway/c/libscicore_la-sci_macr2lst.lo: sci_gateway/c/sci_macr2lst.c \
+ /usr/include/stdc-predef.h ../../modules/core/includes/gw_core.h \
+ ../../modules/core/includes/machine.h
+
+/usr/include/stdc-predef.h:
+
+../../modules/core/includes/gw_core.h:
+
+../../modules/core/includes/machine.h:

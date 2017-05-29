@@ -1,0 +1,14 @@
+src/c/libscifftw_algo_la-with_fftw.lo: src/c/with_fftw.c \
+ /usr/include/stdc-predef.h includes/with_fftw.h \
+ ../../modules/core/includes/machine.h ../../modules/core/includes/BOOL.h \
+ includes/dynlib_fftw.h
+
+/usr/include/stdc-predef.h:
+
+includes/with_fftw.h:
+
+../../modules/core/includes/machine.h:
+
+../../modules/core/includes/BOOL.h:
+
+includes/dynlib_fftw.h:

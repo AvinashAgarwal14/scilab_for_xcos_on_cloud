@@ -1,0 +1,9 @@
+src/c/libscigui_algo_la-ScilabTermination.lo: src/c/ScilabTermination.c \
+ /usr/include/stdc-predef.h ../../modules/core/includes/storeCommand.h \
+ ../../modules/core/includes/machine.h
+
+/usr/include/stdc-predef.h:
+
+../../modules/core/includes/storeCommand.h:
+
+../../modules/core/includes/machine.h:

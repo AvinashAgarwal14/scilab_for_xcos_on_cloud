@@ -1,0 +1,18 @@
+src/c/libscigui_algo_la-CreateUimenu.lo: src/c/CreateUimenu.c \
+ /usr/include/stdc-predef.h src/c/CreateUimenu.h \
+ ../../modules/graphic_objects/includes/graphicObjectProperties.h \
+ ../../modules/graphic_objects/includes/createGraphicObject.h \
+ ../../modules/graphic_objects/includes/dynlib_graphic_objects.h \
+ ../../modules/core/includes/BOOL.h
+
+/usr/include/stdc-predef.h:
+
+src/c/CreateUimenu.h:
+
+../../modules/graphic_objects/includes/graphicObjectProperties.h:
+
+../../modules/graphic_objects/includes/createGraphicObject.h:
+
+../../modules/graphic_objects/includes/dynlib_graphic_objects.h:
+
+../../modules/core/includes/BOOL.h:

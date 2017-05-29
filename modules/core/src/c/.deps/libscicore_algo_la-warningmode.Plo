@@ -1,0 +1,11 @@
+src/c/libscicore_algo_la-warningmode.lo: src/c/warningmode.c \
+ /usr/include/stdc-predef.h ../../modules/core/includes/warningmode.h \
+ ../../modules/core/includes/BOOL.h ../../modules/core/includes/machine.h
+
+/usr/include/stdc-predef.h:
+
+../../modules/core/includes/warningmode.h:
+
+../../modules/core/includes/BOOL.h:
+
+../../modules/core/includes/machine.h:

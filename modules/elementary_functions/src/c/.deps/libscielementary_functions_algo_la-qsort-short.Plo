@@ -1,0 +1,9 @@
+src/c/libscielementary_functions_algo_la-qsort-short.lo: \
+ src/c/qsort-short.c /usr/include/stdc-predef.h src/c/qsort.h \
+ src/c/qsort-short.h
+
+/usr/include/stdc-predef.h:
+
+src/c/qsort.h:
+
+src/c/qsort-short.h:

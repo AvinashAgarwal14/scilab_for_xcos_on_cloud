@@ -1,0 +1,12 @@
+src/c/libscielementary_functions_algo_la-rea2db.lo: src/c/rea2db.c \
+ /usr/include/stdc-predef.h includes/rea2db.h \
+ ../../modules/core/includes/machine.h \
+ includes/dynlib_elementary_functions.h
+
+/usr/include/stdc-predef.h:
+
+includes/rea2db.h:
+
+../../modules/core/includes/machine.h:
+
+includes/dynlib_elementary_functions.h:

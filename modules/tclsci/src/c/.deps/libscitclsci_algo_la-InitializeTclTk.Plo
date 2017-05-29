@@ -1,0 +1,19 @@
+src/c/libscitclsci_algo_la-InitializeTclTk.lo: src/c/InitializeTclTk.c \
+ /usr/include/stdc-predef.h includes/InitializeTclTk.h \
+ ../../modules/core/includes/BOOL.h src/c/InitTclTk.h \
+ ../../modules/core/includes/scilabmode.h \
+ ../../modules/core/includes/machine.h ../../modules/core/includes/BOOL.h
+
+/usr/include/stdc-predef.h:
+
+includes/InitializeTclTk.h:
+
+../../modules/core/includes/BOOL.h:
+
+src/c/InitTclTk.h:
+
+../../modules/core/includes/scilabmode.h:
+
+../../modules/core/includes/machine.h:
+
+../../modules/core/includes/BOOL.h:

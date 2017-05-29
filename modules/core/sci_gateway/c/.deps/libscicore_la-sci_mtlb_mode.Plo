@@ -1,0 +1,10 @@
+sci_gateway/c/libscicore_la-sci_mtlb_mode.lo: \
+ sci_gateway/c/sci_mtlb_mode.c /usr/include/stdc-predef.h \
+ ../../modules/core/includes/gw_core.h \
+ ../../modules/core/includes/machine.h
+
+/usr/include/stdc-predef.h:
+
+../../modules/core/includes/gw_core.h:
+
+../../modules/core/includes/machine.h:

@@ -1,0 +1,13 @@
+src/c/libsciinteger_algo_la-gendot.lo: src/c/gendot.c \
+ /usr/include/stdc-predef.h includes/gendot.h includes/dynlib_integer.h \
+ ../../modules/core/includes/machine.h includes/def.h
+
+/usr/include/stdc-predef.h:
+
+includes/gendot.h:
+
+includes/dynlib_integer.h:
+
+../../modules/core/includes/machine.h:
+
+includes/def.h:

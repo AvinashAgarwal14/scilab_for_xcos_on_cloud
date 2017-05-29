@@ -1,0 +1,13 @@
+src/c/libsciinteger_algo_la-db2int.lo: src/c/db2int.c \
+ /usr/include/stdc-predef.h includes/db2int.h includes/dynlib_integer.h \
+ ../../modules/core/includes/machine.h includes/def.h
+
+/usr/include/stdc-predef.h:
+
+includes/db2int.h:
+
+includes/dynlib_integer.h:
+
+../../modules/core/includes/machine.h:
+
+includes/def.h:

@@ -1,0 +1,14 @@
+src/c/libsciinteger_algo_la-gentril.lo: src/c/gentril.c \
+ /usr/include/stdc-predef.h includes/gentril.h \
+ ../../modules/core/includes/machine.h includes/dynlib_integer.h \
+ includes/def.h
+
+/usr/include/stdc-predef.h:
+
+includes/gentril.h:
+
+../../modules/core/includes/machine.h:
+
+includes/dynlib_integer.h:
+
+includes/def.h:

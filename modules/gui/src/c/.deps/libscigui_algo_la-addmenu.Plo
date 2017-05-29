@@ -1,0 +1,6 @@
+src/c/libscigui_algo_la-addmenu.lo: src/c/addmenu.c \
+ /usr/include/stdc-predef.h ../../modules/core/includes/machine.h
+
+/usr/include/stdc-predef.h:
+
+../../modules/core/includes/machine.h:

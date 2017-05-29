@@ -1,0 +1,9 @@
+src/c/libscicore_algo_la-islittleendian.lo: src/c/islittleendian.c \
+ /usr/include/stdc-predef.h ../../modules/core/includes/islittleendian.h \
+ ../../modules/core/includes/machine.h
+
+/usr/include/stdc-predef.h:
+
+../../modules/core/includes/islittleendian.h:
+
+../../modules/core/includes/machine.h:

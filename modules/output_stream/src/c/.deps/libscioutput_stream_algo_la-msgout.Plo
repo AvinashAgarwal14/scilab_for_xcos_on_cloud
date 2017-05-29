@@ -1,0 +1,19 @@
+src/c/libscioutput_stream_algo_la-msgout.lo: src/c/msgout.c \
+ /usr/include/stdc-predef.h src/c/msgout.h \
+ ../../modules/core/includes/machine.h src/c/msgstore.h \
+ includes/dynlib_output_stream.h includes/basout.h \
+ includes/dynlib_output_stream.h
+
+/usr/include/stdc-predef.h:
+
+src/c/msgout.h:
+
+../../modules/core/includes/machine.h:
+
+src/c/msgstore.h:
+
+includes/dynlib_output_stream.h:
+
+includes/basout.h:
+
+includes/dynlib_output_stream.h:

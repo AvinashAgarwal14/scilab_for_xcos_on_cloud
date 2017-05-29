@@ -1,0 +1,9 @@
+src/c/libsciboolean_algo_la-vect_or.lo: src/c/vect_or.c \
+ /usr/include/stdc-predef.h ../../modules/core/includes/BOOL.h \
+ src/c/vect_or.h
+
+/usr/include/stdc-predef.h:
+
+../../modules/core/includes/BOOL.h:
+
+src/c/vect_or.h:

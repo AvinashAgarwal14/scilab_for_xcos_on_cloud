@@ -1,0 +1,9 @@
+src/c/libsciscicos_blocks_algo_la-dmmul1.lo: src/c/dmmul1.c \
+ /usr/include/stdc-predef.h ../../modules/core/includes/machine.h \
+ includes/dynlib_scicos_blocks.h
+
+/usr/include/stdc-predef.h:
+
+../../modules/core/includes/machine.h:
+
+includes/dynlib_scicos_blocks.h:

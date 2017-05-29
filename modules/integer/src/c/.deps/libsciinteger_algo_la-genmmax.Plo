@@ -1,0 +1,13 @@
+src/c/libsciinteger_algo_la-genmmax.lo: src/c/genmmax.c \
+ /usr/include/stdc-predef.h includes/genmmax.h includes/dynlib_integer.h \
+ ../../modules/core/includes/machine.h includes/def.h
+
+/usr/include/stdc-predef.h:
+
+includes/genmmax.h:
+
+includes/dynlib_integer.h:
+
+../../modules/core/includes/machine.h:
+
+includes/def.h:

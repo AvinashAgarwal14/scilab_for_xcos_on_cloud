@@ -1,0 +1,6 @@
+src/cpp/libsciscicos_blocks_cli_la-HelpersCLI.lo: src/cpp/HelpersCLI.cpp \
+ /usr/include/stdc-predef.h src/cpp/Helpers.hxx
+
+/usr/include/stdc-predef.h:
+
+src/cpp/Helpers.hxx:

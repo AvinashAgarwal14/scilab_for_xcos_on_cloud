@@ -1,0 +1,14 @@
+src/c/libscielementary_functions_algo_la-qsort-double.lo: \
+ src/c/qsort-double.c /usr/include/stdc-predef.h src/c/qsort.h \
+ src/c/qsort-double.h ../../modules/core/includes/isanan.h \
+ ../../modules/core/includes/machine.h
+
+/usr/include/stdc-predef.h:
+
+src/c/qsort.h:
+
+src/c/qsort-double.h:
+
+../../modules/core/includes/isanan.h:
+
+../../modules/core/includes/machine.h:

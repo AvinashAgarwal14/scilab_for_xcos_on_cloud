@@ -1,0 +1,6 @@
+src/c/libscigraphics_algo_la-periEmpty.lo: src/c/periEmpty.c \
+ /usr/include/stdc-predef.h ../../modules/core/includes/machine.h
+
+/usr/include/stdc-predef.h:
+
+../../modules/core/includes/machine.h:

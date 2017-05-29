@@ -1,0 +1,13 @@
+sci_gateway/c/libscidifferential_equations_la-sci_ode.lo: \
+ sci_gateway/c/sci_ode.c /usr/include/stdc-predef.h \
+ includes/gw_differential_equations1.h \
+ includes/dynlib_differential_equations.h \
+ ../../modules/core/includes/machine.h
+
+/usr/include/stdc-predef.h:
+
+includes/gw_differential_equations1.h:
+
+includes/dynlib_differential_equations.h:
+
+../../modules/core/includes/machine.h:

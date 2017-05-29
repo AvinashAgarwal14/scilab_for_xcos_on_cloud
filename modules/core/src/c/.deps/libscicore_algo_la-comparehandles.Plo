@@ -1,0 +1,6 @@
+src/c/libscicore_algo_la-comparehandles.lo: src/c/comparehandles.c \
+ /usr/include/stdc-predef.h ../../modules/core/includes/machine.h
+
+/usr/include/stdc-predef.h:
+
+../../modules/core/includes/machine.h:

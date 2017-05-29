@@ -1,0 +1,14 @@
+src/c/libsciumfpack_algo_la-with_umfpack.lo: src/c/with_umfpack.c \
+ /usr/include/stdc-predef.h includes/with_umfpack.h \
+ ../../modules/core/includes/machine.h includes/dynlib_umfpack.h \
+ ../../modules/core/includes/BOOL.h
+
+/usr/include/stdc-predef.h:
+
+includes/with_umfpack.h:
+
+../../modules/core/includes/machine.h:
+
+includes/dynlib_umfpack.h:
+
+../../modules/core/includes/BOOL.h:

@@ -1,0 +1,13 @@
+src/c/libsciinteger_algo_la-genadd.lo: src/c/genadd.c \
+ /usr/include/stdc-predef.h includes/genadd.h includes/dynlib_integer.h \
+ ../../modules/core/includes/machine.h includes/def.h
+
+/usr/include/stdc-predef.h:
+
+includes/genadd.h:
+
+includes/dynlib_integer.h:
+
+../../modules/core/includes/machine.h:
+
+includes/def.h:

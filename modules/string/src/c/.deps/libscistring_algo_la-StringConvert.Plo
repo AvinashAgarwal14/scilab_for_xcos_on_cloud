@@ -1,0 +1,9 @@
+src/c/libscistring_algo_la-StringConvert.lo: src/c/StringConvert.c \
+ /usr/include/stdc-predef.h includes/StringConvert.h \
+ includes/dynlib_string.h
+
+/usr/include/stdc-predef.h:
+
+includes/StringConvert.h:
+
+includes/dynlib_string.h:

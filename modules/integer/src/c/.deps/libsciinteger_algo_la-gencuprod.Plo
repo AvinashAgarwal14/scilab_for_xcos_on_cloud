@@ -1,0 +1,14 @@
+src/c/libsciinteger_algo_la-gencuprod.lo: src/c/gencuprod.c \
+ /usr/include/stdc-predef.h includes/gencuprod.h \
+ includes/dynlib_integer.h ../../modules/core/includes/machine.h \
+ includes/def.h
+
+/usr/include/stdc-predef.h:
+
+includes/gencuprod.h:
+
+includes/dynlib_integer.h:
+
+../../modules/core/includes/machine.h:
+
+includes/def.h:

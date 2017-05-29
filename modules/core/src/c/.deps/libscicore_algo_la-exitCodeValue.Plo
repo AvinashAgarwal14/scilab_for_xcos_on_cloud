@@ -1,0 +1,6 @@
+src/c/libscicore_algo_la-exitCodeValue.lo: src/c/exitCodeValue.c \
+ /usr/include/stdc-predef.h src/c/exitCodeValue.h
+
+/usr/include/stdc-predef.h:
+
+src/c/exitCodeValue.h:
